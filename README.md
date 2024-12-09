@@ -1,21 +1,29 @@
-## Hi there 👋
+# Hi there 👋![](https://komarev.com/ghpvc/?username=ytzeng2000&color=blue&style=flat-square)
+💻 RD–Research & Developer / 📷 Amateur Photographer
 
-<!--
-**ytzeng2000/ytzeng2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=ytzeng2000&show_icons=true&theme=transparent)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytzeng2000)
+# About Me
+
+- 🎓 A soon-to-graduate master's student.
+
+- 💻 A back-end development engineer in the Internet industry🐮🐎.
+
+- 🌍 Fond of traveling and hiking, with an aspiration for global journeys.🏝️ 
+
+- 🏸 Enjoys sports such as badminton and swimming. 🎾🏊
+
+- 📷 Self-proclaimed as a photographer and highly confident in photography skills. 😜
+
+🌟 looking forward to interactions and collaborations. 🌟 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ytzeng2000&layout=compact&theme=tokyonight)
+
+
+
+
+
 
 
